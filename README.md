@@ -5,10 +5,20 @@ This is a Quiz Application that allows users to take quizzes, record their score
 
 # Features
 
-**User Authentication: Users can log in and maintain personal quiz records.
+User Authentication: Users can log in and maintain personal quiz records.
+Quiz Functionality: Users can attempt quizzes with multiple-choice questions.
+Score Tracking: Records quiz scores in the database.
+User History: Stores previous quiz attempts and results.
+Database Integration: Uses a database to manage users, scores, and quiz data.
 
-**Quiz Functionality: Users can attempt quizzes with multiple-choice questions.
+# Technology Stack
 
-**Score Tracking: Records quiz scores in the database.
-**User History: Stores previous quiz attempts and results.
-**Database Integration: Uses a database to manage users, scores, and quiz data.
+Backend: Python ,JSON 
+
+# Usage
+
+Register or log in.
+Select a quiz category and start the quiz.
+Answer questions and submit.
+View scores and past quiz attempts in the history section.
+
